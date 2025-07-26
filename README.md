@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Ariel Pelaez
 
-<!--
-**apelaezggh/apelaezggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Backend Developer | Python • FastAPI • Django • Clean Architecture*
 
-Here are some ideas to get you started:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arielpelaezggh&title=Visitors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I'm a backend developer with over *13 years of experience* building reliable and high-quality software systems.
+
+•⁠  ⁠🏫 *University of Computer Sciences – Havana, Cuba*  
+  Developed desktop apps with *C++ and Qt* and built REST APIs using *Python and Django*.
+  
+•⁠  ⁠🏢 *Monogroup (Since 2022)*  
+  Senior Backend Developer using *FastAPI, applying **clean architecture, **SOLID principles, and **design patterns*.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+⁠ Python ⁠ | ⁠ Go ⁠ | ⁠ C++ ⁠ | ⁠ Java ⁠ | ⁠ SQL ⁠
+
+### 🔹 Backend Frameworks
+⁠ FastAPI ⁠ | ⁠ Django ⁠ | ⁠ Django REST Framework ⁠ | ⁠ Flask ⁠
+
+### 🔹 Databases
+⁠ PostgreSQL ⁠ | ⁠ SQLite ⁠ | ⁠ MySQL ⁠ | ⁠ MongoDB ⁠
+
+### 🔹 Tools & DevOps
+⁠ Docker ⁠ | ⁠ Git ⁠ | ⁠ GitHub ⁠ | ⁠ GitHub Actions ⁠ | ⁠ CI/CD ⁠
+
+### 🔹 Design & Architecture
+⁠ Clean Architecture ⁠ | ⁠ SOLID Principles ⁠ | ⁠ Design Patterns (Factory, Singleton, Observer) ⁠  
+⁠ Microservices ⁠ | ⁠ Layered Architecture ⁠ | ⁠ OAuth2 ⁠ | ⁠ OpenID Connect ⁠
+
+### 🔹 UI & Other
+⁠ Qt ⁠ | ⁠ PyQt ⁠ | ⁠ OpenCV ⁠
+
+### 🔹 Testing
+⁠ Unit Testing ⁠ | ⁠ Integration Testing ⁠
+
+---
+
+## 📫 Contact Me
+
+•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/arielpelaez)  
+•⁠  ⁠📧 arpglez@gmail.com
+•⁠  ⁠📍 Based in Texas, USA  
+•⁠  ⁠💻 [GitHub Profile](https://github.com/arielpelaezggh)
+
+---
+
+	⁠“Always learning, always building.” 🚀

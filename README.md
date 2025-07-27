@@ -2,55 +2,57 @@
 
 🎯 *Backend Developer | Python • FastAPI • Django • Clean Architecture*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arielpelaezggh&title=Visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arielpelaezggh&title=Visitors)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a backend developer with over *13 years of experience* building reliable and high-quality software systems.
+I'm a backend developer with over **13 years of experience** building reliable, scalable, and high-quality software systems.
 
-•⁠  ⁠🏫 *University of Computer Sciences – Havana, Cuba*  
-  Developed desktop apps with *C++ and Qt* and built REST APIs using *Python and Django*.
-  
-•⁠  ⁠🏢 *Monogroup (Since 2022)*  
-  Senior Backend Developer using *FastAPI, applying **clean architecture, **SOLID principles, and **design patterns*.
+- 🏫 **University of Computer Sciences – Havana, Cuba**  
+  Built cross-platform desktop apps with **C++/Qt** and RESTful APIs using **Python** and **Django**.  
+  Worked on **image processing** and **pattern recognition** systems.
+
+- 🏢 **Monogroup (Since 2022)**  
+  Designing and building scalable backend systems with **FastAPI**, following **Clean Architecture**, **SOLID principles**, and **Design Patterns**.  
+  Experience with **microservices**, **event-driven architectures**, and both **sync & async** processing.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
-⁠ Python ⁠ | ⁠ Go ⁠ | ⁠ C++ ⁠ | ⁠ Java ⁠ | ⁠ SQL ⁠
+`Python` • `C++` • `Go` • `Java` • `SQL`
 
 ### 🔹 Backend Frameworks
-⁠ FastAPI ⁠ | ⁠ Django ⁠ | ⁠ Django REST Framework ⁠ | ⁠ Flask ⁠
+`FastAPI` • `Django` • `Django REST Framework` • `Flask`
 
 ### 🔹 Databases
-⁠ PostgreSQL ⁠ | ⁠ SQLite ⁠ | ⁠ MySQL ⁠ | ⁠ MongoDB ⁠
+`PostgreSQL` • `MySQL` • `SQLite` • `MongoDB`
 
 ### 🔹 Tools & DevOps
-⁠ Docker ⁠ | ⁠ Git ⁠ | ⁠ GitHub ⁠ | ⁠ GitHub Actions ⁠ | ⁠ CI/CD ⁠
+`Docker` • `Git` • `GitHub Actions` • `CI/CD`
 
-### 🔹 Design & Architecture
-⁠ Clean Architecture ⁠ | ⁠ SOLID Principles ⁠ | ⁠ Design Patterns (Factory, Singleton, Observer) ⁠  
-⁠ Microservices ⁠ | ⁠ Layered Architecture ⁠ | ⁠ OAuth2 ⁠ | ⁠ OpenID Connect ⁠
+### 🔹 Architecture & Design
+`Clean Architecture` • `SOLID Principles` • `Design Patterns (Factory, Singleton, Observer)`  
+`Microservices` • `Event-Driven Design` • `OAuth2` • `OpenID Connect`
 
-### 🔹 UI & Other
-⁠ Qt ⁠ | ⁠ PyQt ⁠ | ⁠ OpenCV ⁠
+### 🔹 UI & Vision
+`Qt` • `PyQt` • `OpenCV`
 
 ### 🔹 Testing
-⁠ Unit Testing ⁠ | ⁠ Integration Testing ⁠
+`Unit Testing` • `Integration Testing`
 
 ---
 
 ## 📫 Contact Me
 
-•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/arielpelaez)  
-•⁠  ⁠📧 arpglez@gmail.com
-•⁠  ⁠📍 Based in Texas, USA  
-•⁠  ⁠💻 [GitHub Profile](https://github.com/arielpelaezggh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arielpelaez)
+- 📧 arpglez@gmail.com
+- 📍 Based in Texas, USA
+- 💻 [GitHub](https://github.com/arielpelaezggh)
 
 ---
 
-	⁠“Always learning, always building.” 🚀
+> “Always learning, always building.” 🚀

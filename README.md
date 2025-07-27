@@ -2,21 +2,19 @@
 
 🎯 *Backend Developer | Python • FastAPI • Django • Clean Architecture*
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arielpelaezggh&title=Visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=apelaezggh&title=Visitors)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a backend developer with over **13 years of experience** building reliable, scalable, and high-quality software systems.
+I'm a backend developer with over *13 years of experience* building reliable and high-quality software systems.
 
-- 🏫 **University of Computer Sciences – Havana, Cuba**  
-  Built cross-platform desktop apps with **C++/Qt** and RESTful APIs using **Python** and **Django**.  
-  Worked on **image processing** and **pattern recognition** systems.
-
-- 🏢 **Monogroup (Since 2022)**  
-  Designing and building scalable backend systems with **FastAPI**, following **Clean Architecture**, **SOLID principles**, and **Design Patterns**.  
-  Experience with **microservices**, **event-driven architectures**, and both **sync & async** processing.
+•⁠  ⁠🏫 *University of Computer Sciences – Havana, Cuba*  
+  Developed desktop apps with *C++ and Qt* and built REST APIs using *Python and Django*.
+  
+•⁠  ⁠🏢 *Monogroup (Since 2022)*  
+  Senior Backend Developer using *FastAPI, applying **clean architecture**, **SOLID principles**, and **design patterns*.
 
 ---
 
@@ -32,7 +30,7 @@ I'm a backend developer with over **13 years of experience** building reliable, 
 `PostgreSQL` • `MySQL` • `SQLite` • `MongoDB`
 
 ### 🔹 Tools & DevOps
-`Docker` • `Git` • `GitHub Actions` • `CI/CD`
+`Docker` • `Git` • `GitHub` • `GitHub Actions` • `CI/CD`
 
 ### 🔹 Architecture & Design
 `Clean Architecture` • `SOLID Principles` • `Design Patterns (Factory, Singleton, Observer)`  
@@ -51,7 +49,7 @@ I'm a backend developer with over **13 years of experience** building reliable, 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arielpelaez)
 - 📧 arpglez@gmail.com
 - 📍 Based in Texas, USA
-- 💻 [GitHub](https://github.com/arielpelaezggh)
+- 💻 [GitHub Profile](https://github.com/apelaezggh)
 
 ---
 
